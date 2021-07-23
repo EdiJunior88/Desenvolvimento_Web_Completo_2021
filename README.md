@@ -361,6 +361,90 @@ Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (
   <li>App Orçamento Pessoal - Removendo despesas e considerações finais</li>
 </ul>
 
+<hr>
+
+<h3>Seção 8: Iniciando com servidor Apache, PHP e MySQL</h3>
+
+<ul>
+  <li>Internet x Web (um pouco da história)</li>
+  <li>A dinâmica da World Wide Web</li>
+  <li>Web Stacks mais conhecidas no momento</li>
+  <li>Stack WAMP - Configurando o back-end com XAMPP</li>
+  <li>Stack WAMP - Conhecendo o XAMPP</li>
+  <li>Configurando o back-end com XAMPP no Linux / Mac OSX</li>
+</ul>
+
+<hr>
+
+<h3>Seção 9: PHP 7</h3>
+
+<ul>
+  <li>O que é PHP em páginas HTML?</li>
+  <li>Embutindo blocos PHP em páginas HTML</li>
+  <li>Habilitando e testando tags curtas (short_open_tag)</li>
+  <li>Saída de dados com echo() e print()</li>
+  <li>Funcionamento do PHP um pouco mais a fundo (páginas estáticas x dinâmicas)</li>
+  <li>Comentários</li>
+  <li>Variáveis - Introdução</li>
+  <li>Variáveis - Prática (string, int, float e boolean)</li>
+  <li>Alterando valores de variáveis</li>
+  <li>Concatenação</li>
+  <li>Variáveis constantes</li>
+  <li>If/else parte 1 - Introdução</li>
+  <li>Operadores de comparação (condicionais)</li>
+  <li>If/else parte 2 - Praticando com operadores de comparação</li>
+  <li>Operadores lógicos</li>
+  <li>If/else parte 3 - praticando com operadores lógicos</li>
+  <li>If/else parte 4 - Praticando um pouco mais</li>
+  <li>If/else parte 5 - Condições encadeadas</li>
+  <li>Operador ternário</li>
+  <li>Atividades para fixação do conteúdo</li>
+  <li>Switch</li>
+  <li>Switch na prática</li>
+  <li>Casting de tipos com (int), (bool), (float) e (string)</li>
+  <li>Operadores aritméticos</li>
+  <li>Praticando com operadores aritméticos</li>
+  <li>Operações aritméticas na atribuição de valores</li>
+  <li>Operadores de incremento/decremento</li>
+  <li>Praticando com operadores de incremento/decremento</li>
+  <li>Funções - Introdução</li>
+  <li>Funções - Prática</li>
+  <li>Atividades para fixação do conteúdo</li>
+  <li>Funções nativas para manipular strings</li>
+  <li>Funções nativas para tarefas matemáticas</li>
+  <li>Funções nativas para manipular datas</li>
+  <li>Array básico - Introdução</li>
+  <li>Array básico - Prática</li>
+  <li>Array multidimensional</li>
+  <li>Array - Métodos de pesquisa</li>
+  <li>Extra - False, Null e Empty</li>
+  <li>Funções nativas para manipular arrays</li>
+  <li>Loops parte 1 - introdução</li>
+  <li>Loops parte 2 - While</li>
+  <li>Loops parte 3 - Do while</li>
+  <li>Loops parte 4 - For</li>
+  <li>Praticando um pouco - Percorrendo Arrays com While, Do While e For</li>
+  <li>Loops parte 5 - Foreach</li>
+  <li>Praticando um pouco - Foreach em Arrays associativos e Foreach encadeados</li>
+  <li>Atividades para fixação do conteúdo</li>
+  <li>App Help Desk - Instruções gerais</li>
+  <li>App Help Desk - Introdução</li>
+  <li>App Help Desk - Iniciando o projeto</li>
+  <li>App Help Desk - Formulários (Desvendando os métodos GET e POST)</li>
+  <li>App Help Desk - Autenticando usuário</li>
+  <li>App Help Desk - Protegendo páginas restritas com SESSION</li>
+  <li>Incorporando scripts com include, include_once, require e require_once</li>
+  <li>App Help Desk - Refactoring do projeto com require_once</li>
+  <li>App Help Desk - Navegação entre páginas</li>
+  <li>App Help Desk - Encerrando a sessão (logoff)</li>
+  <li>App Help Desk - Registrando chamados</li>
+  <li>App Help Desk - Consultando chamados</li>
+  <li>App Help Desk - Aplicando controle de perfil de usuários</li>
+  <li>Atividades para fixação do conteúdo</li>
+  <li>App Help Desk - Segurança no back-end de aplicações web</li>
+
+</ul>
+
 <h4><b>Aulas:</b> :vhs: 215 video-aulas + 49hrs totais de vídeo</h4>
 <h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
 

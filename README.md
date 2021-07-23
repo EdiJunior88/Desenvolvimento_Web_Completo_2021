@@ -671,6 +671,36 @@ Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (
   <li>Extra (P&R) - Paginação de registros parte 3</li>
 </ul>
 
+<hr>
+
+<h3>Seção 17:  API com Slim Framework</h3>
+
+<ul>
+  <li>O que irei aprender? API com Slim Framework</li>
+  <li>Entendendo requisições e API</li>
+  <li>Rotas com Slim</li>
+  <li>Tipos de requisições</li>
+  <li>Serviços e dependências</li>
+  <li>Middleware, respostas e database</li>
+  <li>Criando API</li>
+  <li>Finalizando rotas</li>
+  <li>Finalizando API</li>
+</ul>
+
+<hr>
+
+<h3>Seção 18: SASS</h3>
+
+<ul>
+  <li>O que irei aprender? sass</li>
+  <li>Introdução ao Sass</li>
+  <li>Instalação: Windows e Mac</li>
+  <li>Instalando plugins</li>
+  <li>Criando projeto com Sass</li>
+  <li>Aninhamento, variáveis e interpolação</li>
+  <li>for, while, each, funções e importações</li>
+  <li>Mixin, Herança e diretivas de controle</li>
+</ul>
 
 <h4><b>Aulas:</b> :vhs: 569 video-aulas + 109 totais de vídeo</h4>
 <h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>

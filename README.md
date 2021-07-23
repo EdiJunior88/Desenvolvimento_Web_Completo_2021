@@ -197,7 +197,106 @@ Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (
   <li>#projeto 8 Spotify - rodapé & ajustes</li>
   <li>Carousel</li>
   <li>#projeto 8 Spotify - carousel</li>
+</ul>
 
+<hr>
+
+<h3>Seção 7: Javascript</h3>
+
+<ul>
+  <li>O que é JavaScript?</li>
+  <li>Antes de iniciarmos aqui vai uma dica</li>
+  <li>Incluindo JavaScript em páginas HTML5 parte 1 - Introdução e preparação</li>
+  <li>Incluindo JavaScript em páginas HTML5 parte 2 - Local e Externo</li>
+  <li>Incluindo JavaScript em páginas HTML5 parte 3 - Precedência de execução</li>
+  <li>Comentários</li>
+  <li>Variáveis - Introdução</li>
+  <li>Variáveis - Prática</li>
+  <li>Concatenação</li>
+  <li>Usar ou não usar o ";" no final dos comandos?</li>
+  <li>Variáveis null e undefined</li>
+  <li>Alterando valores de variáveis</li>
+  <li>Revisão e desafio A-B-C</li>
+  <li>Atividades para fixação do conteúdo</li>
+  <li>If/else parte 1 - introdução</li>
+  <li>Operadores de comparação (condicionais)</li>
+  <li>If/else parte 2 - Praticando com operadores de comparação</li>
+  <li>Praticando um pouco mais com operadores de comparação</li>
+  <li>Casting de tipos com toString(), parseInt() e parseFloat()</li>
+  <li>Operadores lógicos</li>
+  <li>If/else parte 3 - praticando com operadores lógicos</li>
+  <li>Operador ternário</li>
+  <li>Atividades para fixação do conteúdo</li>
+  <li>Switch</li>
+  <li>Switch na prática</li>
+  <li>Operadores aritméticos</li>
+  <li>Praticando com operadores aritméticos</li>
+  <li>Operações aritméticas na atribuição de valores</li>
+  <li>Precedência de execução das operações aritméticas</li>
+  <li>Atividades para fixação do conteúdo</li>
+  <li>Funções - Introdução</li>
+  <li>Funções - Prática</li>
+  <li>Funções - Flexibilidade de parâmetros</li>
+  <li>Escopo de variáveis</li>
+  <li>Funções anônimas e a técnica de wrapper</li>
+  <li>Funções de callback</li>
+  <li>Funções nativas para manipular strings</li>
+  <li>Funções nativas para tarefas matemáticas</li>
+  <li>Funções nativas para manipular datas</li>
+  <li>Praticando um pouco mais com datas</li>
+  <li>Atividades para fixação do conteúdo</li>
+  <li>Eventos parte 1 - Introdução</li>
+  <li>Eventos parte 2 - Mouse</li>
+  <li>Eventos parte 3 - Teclado</li>
+  <li>Eventos parte 4 - Janela</li>
+  <li>Eventos parte 5 - Formulários</li>
+  <li>DOM parte 1 - Introdução</li>
+  <li>DOM parte 2 - Selecionando elementos da página</li>
+  <li>DOM parte 3 - Manipulando valores de inputs (text)</li>
+  <li>DOM parte 4 - Manipulando estilos de elementos</li>
+  <li>DOM parte 5 - Manipulando classes de elementos</li>
+  <li>Atividades para fixação do conteúdo</li>
+  <li>App Calculadora parte 1 - Criando a função calcular()</li>
+  <li>App Calculadora parte 2 - Implementando a lógica do cálculo</li>
+  <li>Array básico - Introdução</li>
+  <li>Array básico - Prática</li>
+  <li>Extra - Diferença entre o atributo length de variáveis do tipo string e array</li>
+  <li>Array multidimensional</li>
+  <li>Array - Métodos de inclusão e exclusão de elementos</li>
+  <li>Array - Método de pesquisa</li>
+  <li>Array - Ordenação de elementos</li>
+  <li>Atividades para fixação do conteúdo</li>
+  <li>Estrutura de repetição parte 1 - introdução</li>
+  <li>Estrutura de repetição parte 2 - While</li>
+  <li>Estrutura de repetição parte 3 - Do while</li>
+  <li>Estrutura de repetição parte 4 - For</li>
+  <li>Praticando um pouco - Percorrendo e listando itens de Arrays</li>
+  <li>Praticando um pouco - Criando uma tabuada de 1 a 10 (laços encadeados)</li>
+  <li>Estrutura de repetição parte 5 - For in</li>
+  <li>Estrutura de repetição parte 6 - Foreach</li>
+  <li>Atividades para fixação do conteúdo</li>
+  <li>Funções - Trabalhando com parâmetros variáveis</li>
+  <li>Tratamento de erros com try, catch, throw e finally</li>
+  <li>BOM - Introdução</li>
+  <li>BOM parte 1 - Window</li>
+  <li>BOM parte 2 - Screen</li>
+  <li>BOM parte 3 - Location</li>
+  <li>BOM parte 4 - Timing</li>
+  <li>App Game Mata Mosquito - Introdução</li>
+  <li>App Game Mata Mosquito - Iniciando o projeto</li>
+  <li>App Game Mata Mosquito - Definindo a dimensão do palco do jogo</li>
+  <li>App Game Mata Mosquito - Criando posições randômicas</li>
+  <li>App Game Mata Mosquito - Tamanhos randômicos</li>
+  <li>App Game Mata Mosquito - Lado A e Lado B</li>
+  <li>App Game Mata Mosquito - Criando e removendo mosquitos a cada ciclo de tempo</li>
+  <li>App Game Mata Mosquito - Criando o cenário</li>
+  <li>App Game Mata Mosquito - Controlando os pontos de vida</li>
+  <li>App Game Mata Mosquito - Game Over</li>
+  <li>App Game Mata Mosquito - Adicionando o cronometro</li>
+  <li>App Game Mata Mosquito - Vitória</li>
+  <li>App Game Mata Mosquito - Página inicial</li>
+  <li>App Game Mata Mosquito - Aplicando o nível de dificuldade selecionado</li>
+  <li>App Game Mata Mosquito - Ajustes finais e considerações</li>
 </ul>
 
 <h4><b>Aulas:</b> :vhs: 215 video-aulas + 49hrs totais de vídeo</h4>

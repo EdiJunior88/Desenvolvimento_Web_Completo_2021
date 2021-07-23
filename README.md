@@ -299,6 +299,68 @@ Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (
   <li>App Game Mata Mosquito - Ajustes finais e considerações</li>
 </ul>
 
+<hr>
+
+<h3>Seção 7: Javascript moderno (ECMAScript 2015 - ES6) E orientação a objetos</h3>
+
+<ul>
+  <li>O que é ECMAScript?</li>
+  <li>Como utilizar o ECMAScript 2015 (ES6) em suas páginas?</li>
+  <li>Babel - Introdução e configuração</li>
+  <li>Configurando highlight de sintaxe do ES6 no SublimeText</li>
+  <li>Operadores de declaração de variáveis Var e Let</li>
+  <li>Análise de contexto 1 - Usando Var e Let</li>
+  <li>Análise de contexto 2 - Usando Var e Let</li>
+  <li>Operador de declaração de variáveis Const</li>
+  <li>Template String</li>
+  <li>Funções - Parâmetros default</li>
+  <li>Funções - Arrow function</li>
+  <li>Introdução a Orientação a Objetos - Considerações preliminares</li>
+  <li>Introdução a Orientação a Objetos</li>
+  <li>OO - Pilar da Abstração</li>
+  <li>Reflexão - Da abstração a entidade</li>
+  <li>OO - Pilar do Encapsulamento</li>
+  <li>OO - Pilar da Herança</li>
+  <li>Operador Super</li>
+  <li>OO - Pilar do Polimorfismo</li>
+  <li>Objetos literais / estáticos</li>
+  <li>Objetos literais - Melhorias de notação</li>
+  <li>Objetos literais - Modificando valores</li>
+  <li>Objetos literais - Criação dinâmica de pares nome/valor</li>
+  <li>Objetos literais - Objetos únicos</li>
+  <li>Funções construtoras - Criando objetos</li>
+  <li>Funções construtoras - Encapsulando atributos e métodos</li>
+  <li>Funções Factory</li>
+  <li>Prototype - Introdução</li>
+  <li>Prototype - Herança</li>
+  <li>Operador Rest/Spread parte 1</li>
+  <li>Operador Rest/Spread parte 2</li>
+  <li>Destructuring Assignment parte 1</li>
+  <li>Destructuring Assignment parte 2</li>
+  <li>Destructuring Assignment parte 3</li>
+  <li>Destructuring Assignment parte 4</li>
+  <li>App Orçamento Pessoal - Introdução</li>
+  <li>App Orçamento Pessoal - Iniciando o projeto</li>
+  <li>App Orçamento Pessoal - Criando, incluindo e testando o arquivo app.js</li>
+  <li>App Orçamento Pessoal - Cadastro de despesa parte 1</li>
+  <li>App Orçamento Pessoal - Criando a classe Despesa</li>
+  <li>Extra - Web Storage</li>
+  <li>App Orçamento Pessoal - Cadastrando despesa parte 2</li>
+  <li>Extra - Objetos literais vs Notação JSON</li>
+  <li>App Orçamento Pessoal - Criando a classe BD e índices dinâmicos</li>
+  <li>App Orçamento Pessoal - Validando dados antes do registro parte 1</li>
+  <li>App Orçamento Pessoal - Validando dados antes do registro parte 2</li>
+  <li>App Orçamento Pessoal - Desafio</li>
+  <li>App Orçamento Pessoal - Listando despesas parte 1</li>
+  <li>App Orçamento Pessoal - Listando despesas parte 2</li>
+  <li>App Orçamento Pessoal - Desafio 2</li>
+  <li>App Orçamento Pessoal - Filtrando despesas parte 1</li>
+  <li>Extra - Array Filter</li>
+  <li>App Orçamento Pessoal - Filtrando despesas parte 2</li>
+  <li>App Orçamento Pessoal - Filtrando despesas parte 3</li>
+  <li>App Orçamento Pessoal - Removendo despesas e considerações finais</li>
+</ul>
+
 <h4><b>Aulas:</b> :vhs: 215 video-aulas + 49hrs totais de vídeo</h4>
 <h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
 

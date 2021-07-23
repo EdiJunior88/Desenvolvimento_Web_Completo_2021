@@ -595,6 +595,83 @@ Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (
   <li>Configurando o banco de dados MySQL</li>
 </ul>
 
+<hr>
+
+<h3>Seção 14: JQuery</h3>
+
+<ul>
+  <li>Introdução ao jQuery</li>
+  <li>Configurando e testando o jQuery</li>
+  <li>Seletores - Selecionando elementos HTML parte 1</li>
+  <li>Seletores - Selecionando elementos HTML parte 2</li>
+  <li>Sequência de execução de código e $(document).ready()</li>
+  <li>Recuperando e manipulando os atributos dos elementos HTML</li>
+  <li>Recuperando e manipulando o conteúdo interno de elementos HTML</li>
+  <li>Recuperando e manipulando valores de inputs (text) e selects</li>
+  <li>Recuperando e manipulando valores de checkboxes/radios e Loop com $.each()</li>
+  <li>Inserindo e removendo elementos HTML</li>
+  <li>Navegando entre elementos HTML</li>
+  <li>Manipulando CSS</li>
+  <li>Eventos - Introdução</li>
+  <li>Eventos do browser (navegador)</li>
+  <li>Eventos do mouse parte 1</li>
+  <li>Eventos do mouse parte 2</li>
+  <li>Eventos do teclado</li>
+  <li>Eventos de formulário</li>
+  <li>Eventos - Aplicando eventos a diversos elementos html simultaneamente</li>
+  <li>Eventos - Registrando/removendo eventos com on/off</li>
+  <li>Eventos - Disparando eventos de forma programática e eventos auxiliadores</li>
+  <li>Efeitos especiais</li>
+  <li>Animações</li>
+  <li>Ajax com jQuery - Conceitos básicos / iniciando o App Dashboard</li>
+  <li>Ajax com jQuery - Requisições para o back-end com load(), get() e post()</li>
+  <li>Ajax com jQuery - Preparando o back-end da aplicação</li>
+  <li>Ajax com jQuery - Utilizando o método $.ajax()</li>
+  <li>Ajax com jQuery - Serialize</li>
+</ul>
+
+<hr>
+
+<h3>Seção 15: Padrão de arquitetura MVC com PHP</h3>
+
+<ul>
+  <li>Introdução ao padrão de arquitetura MVC</li>
+  <li>Um pouco mais sobre MVC e a preparação da estrutura do projeto</li>
+  <li>Composer e Autoload PSR-4</li>
+  <li>Iniciando a configuração de rotas do miniframework</li>
+  <li>Controllers</li>
+  <li>Abstração da classe Routes</li>
+  <li>Views</li>
+  <li>Abstração dos Controllers</li>
+  <li>Definindo e reutilizando um Layout</li>
+  <li>Conexão com banco de dados e Models</li>
+  <li>Melhorando a forma como os Controllers trabalham com os Models</li>
+  <li>Abstração dos Models e considerações finais</li>
+</ul>
+
+<hr>
+
+<h3>Seção 16: PHP e MySQL - Projeto aplicado Twitter Clone</h3>
+
+<ul>
+  <li>Iniciando o projeto e configurando as páginas index e inscreverse</li>
+  <li>Registrando usuários</li>
+  <li>Autenticação de usuários</li>
+  <li>Incluindo criptografia MD5 para senha de usuários</li>
+  <li>Criando a Timeline, incluindo e listando Tweets</li>
+  <li>Pesquisando por outros usuários</li>
+  <li>Seguindo e deixando de seguir outros usuários</li>
+  <li>Exibindo tweets de outros usuários na timeline</li>
+  <li>Exibindo dados no perfil do usuário e ajustes finais</li>
+  <li>Extra (P&R) - Deploy Twitter Clone parte 1</li>
+  <li>Extra (P&R) - Deploy Twitter Clone parte 2 (Local)</li>
+  <li>Extra (P&R) - Deploy Twitter Clone parte 3 (Servidor de hospedagem com cPainel)</li>
+  <li>Extra (P&R) - Paginação de registros parte 1 - Introdução, Limit e Offset</li>
+  <li>Extra (P&R) - Paginação de registros parte 2</li>
+  <li>Extra (P&R) - Paginação de registros parte 3</li>
+</ul>
+
+
 <h4><b>Aulas:</b> :vhs: 569 video-aulas + 109 totais de vídeo</h4>
 <h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
 

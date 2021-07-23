@@ -1,8 +1,10 @@
-<h1>Codesigners</h1>
-<h2>Front-End Design Essencial - HTML, CSS e JS Completo do Zero</h2>
+<h1>Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos</h1>
+<h2>Domine Web - 20 Cursos - HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC e muito mais</h2>
 
 <p>
-Aprenda uma base sólida de HTML, CSS e JS criando um site do zero com foco nos elementos de interface e interações!
+Este super pacote reúne incríveis 20 cursos. Para aprender tudo o que é proposto em mais de 100 horas de treinamento o aluno irá desenvolver 20 projetos reais.
+
+Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Moderno), PHP 7, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress e muito mais! 
 </p>
 
 <hr>

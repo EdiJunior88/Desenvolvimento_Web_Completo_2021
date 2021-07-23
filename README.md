@@ -595,7 +595,7 @@ Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (
   <li>Configurando o banco de dados MySQL</li>
 </ul>
 
-<h4><b>Aulas:</b> :vhs: 215 video-aulas + 49hrs totais de vídeo</h4>
+<h4><b>Aulas:</b> :vhs: 569 video-aulas + 109 totais de vídeo</h4>
 <h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
 
 

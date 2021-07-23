@@ -480,7 +480,7 @@ Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (
 
 <hr>
 
-<h3>Seção 10: Bancod e Dados MYSQL</h3>
+<h3>Seção 10: Bancos e Dados MYSQL</h3>
 
 <ul>
   <li>O que é o MySQL?</li>
@@ -521,6 +521,78 @@ Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (
   <li>JOIN - Junção interna (INNER JOIN)</li>
   <li>Alias - Apelidando tabelas</li>
   <li>Considerações finais da seção + Atividades extras</li>
+</ul>
+
+<hr>
+
+<h3>Seção 11: Ajax</h3>
+
+<ul>
+  <li>Introduão ao Ajax</li>
+  <li>Ajax - O que são requisições síncronas e assíncronas</li>
+  <li>Download dos arquivos auxiliares da seção</li>
+  <li>Requisições síncronas</li>
+  <li>Requisições assíncronas parte 1 - Efetuando requisições HTTP via XMLHttpRequest</li>
+  <li>Requisições assíncronas parte 2 - Estados da requisição</li>
+  <li>Requisições assíncronas parte 3 - Aplicando um loading</li>
+  <li>Requisições assíncronas parte 4 - Status da requisição</li>
+  <li>Requisições assíncronas parte 5 - ResponseText</li>
+  <li>XML parte 1 - O que é?</li>
+  <li>XML parte 2 - Recuperando arquivo XML do servidor via HTTP</li>
+  <li>XML parte 3 - Convertendo o XML para JSON e por quê</li>
+  <li>XML parte 4 - Listando os filmes na página</li>
+  <li>Refactoring da comunicação com o back-end utilizando JSON</li>
+  <li>App Pesquisa Endereço</li>
+</ul>
+
+<hr>
+
+<h3>Seção 12: PHP com PDO e MySQL</h3>
+
+<ul>
+  <li>Introdução ao PDO</li>
+  <li>Criando uma conexão entre o PHP e o MySQL com PDO</li>
+  <li>Tratando exceptions (PDOException)</li>
+  <li>Executando instruções SQL (Exec)</li>
+  <li>PDOStatement Object (Query) com fetchAll</li>
+  <li>FetchAll - Trabalhando os tipos de retornos</li>
+  <li>Fetch - Retornando apenas um registro</li>
+  <li>Listando registros com Foreach</li>
+  <li>SQL Injection</li>
+  <li>Prepare Statement</li>
+  <li>App Lista de Tarefas - Introdução</li>
+  <li>App Lista de Tarefas - Iniciando o projeto</li>
+  <li>App Lista de Tarefas - Criando a classe Tarefa</li>
+  <li>App Lista de Tarefas - Criando a classe TarefaService</li>
+  <li>App Lista de Tarefas - Criando a classe Conexão</li>
+  <li>App Lista de Tarefas - Enviando dados para o back-end</li>
+  <li>App Lista de Tarefas - Inserindo registros</li>
+  <li>App Lista de Tarefas - Inserindo registros (feedback)</li>
+  <li>App Lista de Tarefas - Listando todos os registros parte 1</li>
+  <li>App Lista de Tarefas - Listando todos os registros parte 2</li>
+  <li>App Lista de Tarefas - Atualizando registros parte 1</li>
+  <li>App Lista de Tarefas - Atualizando registros parte 2</li>
+  <li>Extra - Prepare com marcadores "?" e métodos setters com return $this</li>
+  <li>App Lista de Tarefas - Removendo registros</li>
+  <li>App Lista de Tarefas - Marcando tarefas como realizadas</li>
+  <li>App Lista de Tarefas - Listando tarefas pendentes</li>
+</ul>
+
+<hr>
+
+<h3>Seção 13: Publicação de aplicações Web na internet</h3>
+
+<ul>
+  <li>Refrescando a memória (Aplicações Web vs Internet)</li>
+  <li>DNS - Domain Name System (Sistema de Nome de Domínio)</li>
+  <li>Servidores de Hospedagem</li>
+  <li>InfinityFree (Servidor de hospedagem)</li>
+  <li>Conhecendo o famoso cPainel</li>
+  <li>FileZilla Client FTP (Instalação)</li>
+  <li>FileZilla Client FTP (Configuração)</li>
+  <li>Enviando arquivos da aplicação via File Manager</li>
+  <li>Configurando a hospedagem para PHP 7</li>
+  <li>Configurando o banco de dados MySQL</li>
 </ul>
 
 <h4><b>Aulas:</b> :vhs: 215 video-aulas + 49hrs totais de vídeo</h4>

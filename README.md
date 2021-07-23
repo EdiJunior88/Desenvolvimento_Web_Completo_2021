@@ -91,9 +91,7 @@ Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (
 
 <ul>
   <li>O que irei aprender? css3 intermediário e avançado</li>
-  <li>
-    <li>Mais sobre seletores</li>
-  </li>
+  <li>Mais sobre seletores</li>
   <li>Herança e especificidade</li>
   <li>Criando barra de navegação vertical</li>
   <li>Marcando página atual</li>
@@ -125,6 +123,82 @@ Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (
   <li>Usando fontes customizadas</li>
 </ul>
 
+<hr>
+
+<h3>Seção 6: HTML5 e CSS3 Recursos especiais</h3>
+
+<ul>
+  <li>O que irei aprender? HTML5 e CSS3 Recursos especiais</li>
+  <li>Normalize CSS</li>
+  <li>Box Sizing & Cantos arredondados</li>
+  <li>Degradês & Transparências</li>
+  <li>Sombras</li>
+  <li>Animações</li>
+  <li>Transições</li>
+  <li>Novas tags html 5 Header, Nav e Footer</li>
+  <li>Novas tags html 5 Article, Section, Aside e time</li>
+  <li>Compatibilidade Html 5</li>
+  <li>Novas tags de Input</li>
+  <li>Flexbox - container</li>
+  <li>Flexbox - itens - parte 1</li>
+  <li>Flexbox - itens - parte 2</li>
+  <li>#projeto6 Museu Nacional - Criando topo</li>
+  <li>#projeto6 Museu Nacional - Barra lateral</li>
+  <li>#projeto6 Museu Nacional - Finalizando</li>
+</ul>
+
+<hr>
+
+<h3>Seção 7: Bootstrap 4 e Design responsivo</h3>
+
+<ul>
+  <li>O que irei aprender? Bootstrap 4 e Design responsivo</li>
+  <li>Design responsivo & Bootstrap</li>
+  <li>[IMPORTANTE] Versões do Bootstrap</li>
+  <li>Configurando o Bootstrap - parte 1</li>
+  <li>Configurando o Bootstrap - parte 2</li>
+  <li>Formatações de textos</li>
+  <li>Alinhamento de textos</li>
+  <li>Elementos flutuantes</li>
+  <li>Cores & Backgrounds</li>
+  <li>Margin & Padding</li>
+  <li>Tamanhos & Bordas</li>
+  <li>Media queries (Links úteis)</li>
+  <li>Media queries - parte 1</li>
+  <li>Media queries - parte 2</li>
+  <li>Botões</li>
+  <li>Introdução - barra de navegação</li>
+  <li>Barra de navegação - parte 1</li>
+  <li>Barra de navegação - parte 2</li>
+  <li>Listas</li>
+  <li>Formulários</li>
+  <li>Input group</li>
+  <li>Alertas & Barra de progresso</li>
+  <li>Tabelas & Paginação - parte 1</li>
+  <li>Tabelas & Paginação - parte 2</li>
+  <li>Cards - parte 1</li>
+  <li>Cards - parte 2</li>
+  <li>Jumbotron & Alinhamento de imagens</li>
+  <li>Ícones</li>
+  <li>Sistema de grid - parte 1</li>
+  <li>Sistema de grid - parte 2</li>
+  <li>Sistema de grid - parte 3</li>
+  <li>Configurações do grid</li>
+  <li>Alinhamento no grid</li>
+  <li>Classes do Flexbox</li>
+  <li>Margin & Wrap</li>
+  <li>Projeto padrão</li>
+  <li>#projeto7 Finans - topo - parte 1</li>
+  <li>#projeto7 Finans - topo - parte 2</li>
+  <li>#projeto7 Finans - conteúdos</li>
+  <li>#projeto 8 Spotify - criando topo</li>
+  <li>#projeto 8 Spotify - finalizando capa</li>
+  <li>#projeto 8 Spotify - conteúdos</li>
+  <li>#projeto 8 Spotify - rodapé & ajustes</li>
+  <li>Carousel</li>
+  <li>#projeto 8 Spotify - carousel</li>
+
+</ul>
 
 <h4><b>Aulas:</b> :vhs: 215 video-aulas + 49hrs totais de vídeo</h4>
 <h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>

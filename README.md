@@ -442,7 +442,85 @@ Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (
   <li>App Help Desk - Aplicando controle de perfil de usuários</li>
   <li>Atividades para fixação do conteúdo</li>
   <li>App Help Desk - Segurança no back-end de aplicações web</li>
+</ul>
 
+<hr>
+
+<h3>Seção 9: PHP 7 e Orientação a objetos</h3>
+
+<ul>
+  <li>Introdução a Orientação a Objetos - Considerações preliminares</li>
+  <li>Introdução a Orientação a Objetos</li>
+  <li>OO - Pilar da Abstração</li>
+  <li>Getters e Setters</li>
+  <li>Getters e Setters mágicos (overloading de atributos e métodos)</li>
+  <li>Chamando métodos internamente</li>
+  <li>Método Construtor e Destrutor (Construct e Destruct)</li>
+  <li>OO - Pilar da Herança</li>
+  <li>OO - Pilar do Polimorfismo</li>
+  <li>OO - Pilar do Encapsulamento parte 1</li>
+  <li>OO - Pilar do Encapsulamento parte 2</li>
+  <li>Atributos e métodos estáticos</li>
+  <li>Interfaces</li>
+  <li>Namespaces parte 1 - Utilizando namespaces para Classes e Interfaces</li>
+  <li>Namespaces parte 2 - Importando e apelidando namespaces (Use e Aliasing)</li>
+  <li>Tratamento de erros - Try, Catch, Finally e Throw</li>
+  <li>Tratamento de erros - Exceções customizadas</li>
+  <li>App Send Mail - Introdução</li>
+  <li>App Send Mail - Iniciando o projeto</li>
+  <li>App Send Mail - Enviando dados do front-end para o back-end via método Post</li>
+  <li>App Send Mail - Criando e instanciando a classe Mensagem</li>
+  <li>App Send Mail - Adicionando a biblioteca PHPMailer ao projeto</li>
+  <li>App Send Mail - Configurando o PHPMailer e enviando e-mails</li>
+  <li>IMPORTANTE - Ajustando as configurações de acesso ao SMTP do Gmail</li>
+  <li>App Send Mail - Enviando e-mails com base nos parâmetros do front-end</li>
+  <li>App Send Mail - Melhorando o feedback visual</li>
+  <li>App Send Mail - De olho na segurança do back-end</li>
+</ul>
+
+<hr>
+
+<h3>Seção 10: Bancod e Dados MYSQL</h3>
+
+<ul>
+  <li>O que é o MySQL?</li>
+  <li>Um pouco mais sobre SQL</li>
+  <li>Utilizando o PHPMyAdmin para manipulação do MySQL</li>
+  <li>Criando e excluindo bancos de dados</li>
+  <li>Tabelas e tipos de dados parte 1 - Um pouco de teoria</li>
+  <li>Tabelas e tipos de dados parte 2 - Partindo para prática</li>
+  <li>Extra - Entendendo a diferença entre os tipos de dados char e varchar</li>
+  <li>Editando nome de tabelas</li>
+  <li>Incluindo, editando e removendo colunas de tabelas</li>
+  <li>INSERT - Inserindo dados em tabela</li>
+  <li>SELECT - Consultando dados</li>
+  <li>Filtrando registros (WHERE)</li>
+  <li>Populando o banco de dados com registros para testes</li>
+  <li>SELECT - Filtros com Operadores de Comparação</li>
+  <li>SELECT - Filtros com Operadores Lógicos</li>
+  <li>SELECT - Filtros com o operador BETWEEN</li>
+  <li>SELECT - Filtros com o operador IN</li>
+  <li>SELECT - Filtros com o operador LIKE</li>
+  <li>SELECT - Ordenando resultado</li>
+  <li>SELECT - Limitando retorno</li>
+  <li>SELECT - Funções de agregação parte 1: MAX, MIN e AVG</li>
+  <li>SELECT - Funções de agregação parte 2: SUM e COUNT</li>
+  <li>SELECT - Agrupando seleção de registros (GROUP BY)</li>
+  <li>SELECT - Filtrando seleções agrupadas (HAVING)</li>
+  <li>UPDATE - Atualizando registros</li>
+  <li>DELETE - Excluindo registros</li>
+  <li>Introdução ao relacionamento entre tabelas, chave primária e estrangeira</li>
+  <li>Projeto Loja Virtual - Relacionamento Um para Um</li>
+  <li>Projeto Loja Virtual - Relacionamento Um para Um (populando tabelas)</li>
+  <li>Projeto Loja Virtual - Relacionamento Um para Muitos</li>
+  <li>Projeto Loja Virtual - Relacionamento Muitos para Muitos</li>
+  <li>Projeto Loja Virtual - Relacionamento Muitos para Muitos (populando tabelas)</li>
+  <li>Introdução as Junções (JOINS) entre tabelas</li>
+  <li>JOIN - Junção à esquerda (LEFT JOIN)</li>
+  <li>JOIN - Junção à direita (RIGHT JOIN)</li>
+  <li>JOIN - Junção interna (INNER JOIN)</li>
+  <li>Alias - Apelidando tabelas</li>
+  <li>Considerações finais da seção + Atividades extras</li>
 </ul>
 
 <h4><b>Aulas:</b> :vhs: 215 video-aulas + 49hrs totais de vídeo</h4>

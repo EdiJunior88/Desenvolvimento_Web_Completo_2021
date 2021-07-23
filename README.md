@@ -702,6 +702,40 @@ Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (
   <li>Mixin, Herança e diretivas de controle</li>
 </ul>
 
+<hr>
+
+<h3>Seção 19: Criando aplicações mobile com IONIC</h3>
+
+<ul>
+  <li>O que irei aprender? IONIC</li>
+  <li>Introdução ao IONIC</li>
+  <li>Componentes - botões</li>
+  <li>Componentes - listas</li>
+  <li>Componentes - entrada de dados</li>
+  <li>Sistema de grids</li>
+  <li>Básico sobre Angular</li>
+  <li>Data Binding no Angular</li>
+  <li>Navegação & Modelo</li>
+  <li>App Gasolina ou Álcool</li>
+</ul>
+
+<hr>
+
+<h3>Seção 20: WordPress</h3>
+
+<ul>
+  <li>O que irei aprender? WordPress</li>
+  <li>O que é o WordPress?</li>
+  <li>Instalando o WordPress</li>
+  <li>Conteúdos, temas e widgets - parte 1</li>
+  <li>Conteúdos, temas e widgets - parte 2</li>
+  <li>Personalização e plugins</li>
+  <li>Usuários, comentários e configurações</li>
+  <li>Criando páginas com Elementor</li>
+  <li>Projeto 10 minutos exercícios - parte 1</li>
+  <li>Projeto 10 minutos exercícios - parte 2</li>
+</ul>
+
 <h4><b>Aulas:</b> :vhs: 569 video-aulas + 109 totais de vídeo</h4>
 <h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
 

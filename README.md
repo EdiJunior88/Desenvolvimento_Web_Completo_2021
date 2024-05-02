@@ -9,6 +9,12 @@ Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (
 
 <hr>
 
+<h3>Tecnologias Utilizadas</h3>
+
+Para ver todas as tecnologias [clique aqui](/techstack.md)
+
+<hr>
+
 <h3>Seção 1: Boas-vindas</h3>
 
 <ul>
